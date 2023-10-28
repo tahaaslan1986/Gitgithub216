@@ -15,6 +15,10 @@ public class Class01 {
         System.out.println(x+y+z);
         System.out.println("Versiyon 2 tamamlandı");
 
+        //Versiyon 3 için kodlar
+
+        System.out.println("Versiyon 3 kodları.");
+
 
     }
 }
